@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CSDL_TH9">
+  <DataContextMoniker Name="/CSDL_TH9DataContext" />
+  <nestedChildShapes>
+    <classShape Id="e3253857-48b2-4b4c-b09b-ac8c880935f3" absoluteBounds="3.25, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CSDL_TH9DataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c64f3b9-ea77-49e9-9868-773a264e3d9f" absoluteBounds="3.2649999999999997, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
